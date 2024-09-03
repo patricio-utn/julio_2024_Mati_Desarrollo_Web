@@ -1,0 +1,43 @@
+
+* {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+.titulazo {
+    color: green;
+}
+.supertítulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: bisque;
+}
+.titulo-principal {
+    color: blueviolet;
+}
+h2{
+    color: rgb(255, 47, 182);
+    font-size: 24px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 40px;
+    text-decoration: aquamarine; 
+}
+
+a{
+    box-shadow: 2px 2px 2px 2px rgb(96, 95, 95);
+    ;
+}
+p{
+    text-align: justify;
+    font-family: sans-serif;
+}
+h3{
+    text-shadow: 5px 5px 5px coral;
+    font-size: 80px;
+
+}
