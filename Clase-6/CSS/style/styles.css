@@ -1,0 +1,13 @@
+h1{
+    color: rgba(30, 209, 167, 0.603);
+    font-size: 90px;
+    word-spacing: -10px;
+
+}
+p{  
+    font-size: 50px;
+    letter-spacing: 1px;
+    color: blueviolet;
+    line-height: 40px;
+    
+}
