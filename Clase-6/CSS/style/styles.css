@@ -2,12 +2,25 @@ h1{
     color: rgba(30, 209, 167, 0.603);
     font-size: 90px;
     word-spacing: -10px;
+    text-decoration: rgb(52, 3, 70) 2px wavy overline;/* este atributo 4 valores, y no tienen un orden, 1 es el color, 2 es el tamaño, 3 es el tipo y 4 la ubicacion */
+    /*color:  
+     */
+     text-align: justify; /* siempre usar esta propiedad, qeu da mas lindo */
 
 }
 p{  
     font-size: 50px;
-    letter-spacing: 1px;
+    letter-spacing: 1px;/* espacio entre letras */
     color: blueviolet;
     line-height: 40px;
-    
+    text-align: justify;
+    /*  */
+}
+a{
+    font-size: 60px;
+    text-decoration: none; /* none indica que algo no tenga, este caso no quiero el subrrayado de ir a google */
+    background-color: aqua;
+}
+.parrafo_loco{
+    color: brown; 
 }
