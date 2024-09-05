@@ -6,7 +6,7 @@ h1{
     /*color:  
      */
      text-align: justify; /* siempre usar esta propiedad, qeu da mas lindo */
-
+     text-shadow: -6px +6px 6px gray;/* recibe valor en el eje x, y el eje y difuminado y el color */
 }
 p{  
     font-size: 50px;
@@ -20,6 +20,8 @@ a{
     font-size: 60px;
     text-decoration: none; /* none indica que algo no tenga, este caso no quiero el subrrayado de ir a google */
     background-color: aqua;
+    box-shadow: 20px 20px 20px 10px black;/* sombras de cajas, sigue el msimo patron que para letras */
+    inset: 20px 20px 20px black;  
 }
 .parrafo_loco{
     color: brown; 
