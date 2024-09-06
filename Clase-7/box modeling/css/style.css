@@ -1,0 +1,46 @@
+
+*{
+    box-sizing: border-box;
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+  /*   padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 10px; */
+    padding: 20px 40px ;
+    border: 8px solid black;
+    border-right: 2px solid red;
+    border-top: 2px solid red;
+    margin-top: 16px;
+      }
+.caja-1{
+    margin-top: 20px;
+    margin-top: 5px;
+    border-radius: 5%;
+}
+h2{
+    border: 2px solid rgb(196, 197, 219);
+    padding: 10px;
+    margin: 10px;
+    color: blueviolet;
+}
+.negro{
+    color: black;}
+    .btn{
+        padding: 20px;
+        margin-top: 50px;
+    }
+    .link{
+        margin-top: 90px;
+        padding: 10px;
+        background-color: brown;
+        width: 100px;
+        display: inline-block;
+    }
+    input{
+        width: 200px;
+        height: 30px;
+    }
